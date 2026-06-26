@@ -18,7 +18,7 @@ This repository contains my **Week 6 Data Engineering Internship Assignment** co
 
 - PySpark
 - Apache Spark
-- Databricks Community Edition
+- Databricks Free Edition
 
 ### Repository Contents
 
